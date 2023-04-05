@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jordache007
 - 👀 I’m interested in Mobile development
-- 🌱 I’m currently learning angular and .net
-- 💞️ I’m looking to collaborate on flutter projects
+
 
 
 <!---
