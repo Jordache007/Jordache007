@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Jordache
 - 👀 I’m interested in Mobile development
+- <h1 align="center">My Technologies</h1>
 
 <p align="center">
   <img style="margin: 0 20px;" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="100" alt="SwiftUI Logo">
